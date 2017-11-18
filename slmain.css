@@ -232,9 +232,8 @@ span.shareit{float:left;line-height:40px;display:block;margin-right:25px;text-tr
 .post-share ul li{float:left;margin-right:5px;}
 .post-share ul li.pshare a{display:inline-block;width:40px;height:40px;line-height:40px;}
 .post-share ul{position:relative;overflow:hidden;list-style:none;margin:0;padding:0;}
-.post-share ul li.facebook a,.post-share ul li.twitter a{display:inline-block;width:200px;line-height:40px;padding:0 10px;}
-.post-share ul li.facebook a{background:#3b5998;}
-.post-share ul li.twitter a{background:#00aced;}
+.post-share li.facebook a{background:#3b5998;}
+.post-share li.twitter a{background:#00aced;}
 .post-share li.gplus a{background:#dd4b39;}
 .post-share li.linkedin a{background:#007bb5;}
 .post-share li.pinterest a{background:#cb2027;}
